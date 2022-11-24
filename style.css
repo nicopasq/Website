@@ -1,0 +1,20 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    background-image: url("https://coolbackgrounds.io/images/backgrounds/index/sea-edge-79ab30e2.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 100vh;
+}
+
+a {
+    z-index: 100;
+    position: relative;
+    top: 40vh;
+    text-decoration: none;
+    font-family:sans-serif;
+    color: white;
+}
